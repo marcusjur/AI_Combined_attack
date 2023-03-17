@@ -1,6 +1,6 @@
 # Your AI model might be telling you this is not a kitten
 <a href="https://ibb.co/fkw3dgs"><img src="https://i.ibb.co/fkw3dgs/index.png" alt="index" border="0"></a>
-➡️ **93%** *Bird*
+➡️ **93%** *Bird* 
 
 > `num_iterations` 6
 > `step_size` 0.03
@@ -10,6 +10,8 @@
 > `combine` 0.01
 
 Challenge your AI model against potential attacks by using this app, which generates and simulates various attacks for machine learning models.
+
+<img src="https://media3.giphy.com/media/OTdzZ6euPNltVOiJ0w/200w.gif?cid=6c09b952qxdt0ulmd7lxfbuzgdio91fm8q0danfqhcbkj8qg&rid=200w.gif&ct=g" width="40" height="40" />
 
 This app is a tool that uses the technique of **projected gradient descent** and **masked noise** to generate adversarial examples that can be used to trick AI models. The app takes in an input image, a mask image, and several parameters.
 
