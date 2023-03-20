@@ -19,11 +19,11 @@ The main idea behind this app is to add small but carefully crafted perturbation
 
 |Parameter |	Description |
 | ----------- | ----------- |
-|🖼️	image | A PIL image object representing the original image to be perturbed.|
-|🎭	mask | A PIL image object representing the mask image used to add noise.|
+|🖼️	image | An image object representing the original image to be perturbed.|
+|🎭	mask | An image object representing the mask image used to add noise.|
 |🔢	num_iterations | An integer value specifying the number of iterations to run the optimization algorithm.|
 |📏	step_size | A float value specifying the step size used in each iteration of the optimization algorithm.|
 |🛑	epsilon | A float value specifying the stopping criterion for the optimization algorithm.|
-|🎚️	variance | A float value specifying the variance of the Gaussian noise added to the perturbed image.|
+|🎚️	variance | An integer value specifying the variance of the Gaussian noise added to the perturbed image.|
 |🌀	blur_radius | A float value specifying the radius of the Gaussian blur filter applied to the perturbed image.|
 |🎨	combine | A float value specifying the transparency of the mask image overlaid on the perturbed image.|
