@@ -113,4 +113,4 @@ app = gr.Interface(
     title="Projected Gradient Descent"
 )
 if __name__ == "__main__":
-    app.launch()
+    app.launch(share=True)
